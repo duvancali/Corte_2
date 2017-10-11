@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Corte II</string>
+    <string name="facebook_app_id">151744292087534</string>
+    <string name="fb_login_protocol_scheme">fb151744292087534</string>
+    <string name="login">Login</string>
+    <string name="title_activity_fecha">fecha</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="nombre">Nombre:</string>
+</resources>

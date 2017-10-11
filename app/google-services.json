@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "522002128549",
+    "firebase_url": "https://login-facebook-cc6d6.firebaseio.com",
+    "project_id": "login-facebook-cc6d6",
+    "storage_bucket": "login-facebook-cc6d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522002128549:android:6646f13789d5946b",
+        "android_client_info": {
+          "package_name": "com.example.duvan.corteii"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522002128549-msjrm2madeqg3s4kkgrhev9s10rbervd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.duvan.corteii",
+            "certificate_hash": "e30a73f0cb280451388111be5ac5135d6f85c126"
+          }
+        },
+        {
+          "client_id": "522002128549-k44mfuroja3gmi37t2ribeqo87kdsrus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBATV0VvbHShpcA3Lt-HYmLkW9pjC58FqI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522002128549-k44mfuroja3gmi37t2ribeqo87kdsrus.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
